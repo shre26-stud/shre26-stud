@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> 
   </a>
   &nbsp;
-  <a href="https://github.com/Vaibhav-12521" target="_blank"> 
+  <a href="https://github.com/shre26-stud" target="_blank"> 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/> 
   </a>
   &nbsp;
@@ -22,11 +22,11 @@
 <h3 align="center">A passionate developer with a focus on frontend and backend development, as well as a keen interest in cybersecurity. My journey in tech has led me to explore the exciting fields of AI and machine learning, with most of my projects centered around these technologies..</h3>
 
 <p align="left"
-  <img src="https://komarev.com/ghpvc/?username=vaibhav-12521&label=Profile%20views&color=ffffff&style=flat" alt="vaibhav-12521" />
+  <img src="https://komarev.com/ghpvc/?username=shre26-stud&label=Profile%20views&color=ffffff&style=flat" alt="shre26-stud" />
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-12521" alt="vaibhav-12521" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shre26-stud" alt="shre26-stud" /></a> 
 </p>
 
 - 🔭 I’m currently working as a **Intern** in CodeAlpha with **Artficial Inteligence**.
@@ -143,10 +143,10 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-12521&show_icons=true&locale=en&layout=compact" alt="vaibhav-12521" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shre26-stud&show_icons=true&locale=en&layout=compact" alt="shre26-stud" />
 </p>
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-12521&show_icons=true&locale=en" alt="vaibhav-12521" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shre26-stud&show_icons=true&locale=en" alt="shre26-stud" />
 </p>
